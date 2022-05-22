@@ -1,0 +1,14 @@
+button {
+    padding: 8px 15px;
+    border: none;
+    border-radius: 5px;
+}
+
+.register {
+    color: #000000;
+}
+
+.login {
+    color: rgb(0, 0, 0);
+    margin: 0 5px 0 40px;
+}
